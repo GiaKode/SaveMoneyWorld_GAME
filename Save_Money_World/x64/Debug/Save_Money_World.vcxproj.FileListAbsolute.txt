@@ -1,0 +1,17 @@
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\Save_Money_World.vcxproj.AssemblyReference.cache
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\Save_Money_World.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormMenu.resources
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormUPC.resources
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\Save_Money_World.vcxproj.GenerateResource.cache
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormCreditos.resources
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormInstrucciones.resources
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormNiveles.resources
+C:\Users\Jhordy\source\repos\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormNivel2.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\Save_Money_World.vcxproj.AssemblyReference.cache
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormCreditos.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormInstrucciones.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormMenu.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormNivel2.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormNiveles.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\SaveMoneyWorld.FormUPC.resources
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\x64\Debug\Save_Money_World.vcxproj.GenerateResource.cache

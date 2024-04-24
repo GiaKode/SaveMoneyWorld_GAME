@@ -1,0 +1,233 @@
+﻿  FormCreditos.cpp
+  FormInstrucciones.cpp
+  FormMenu.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(54,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(55,28): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(42,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(62,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(61,11): warning C4101: 'heroe': variable local sin referencia
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Controladora2.h(243,35): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(60,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormMenu.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(81,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormMenu.cpp")
+  
+  FormNivel1.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(54,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(55,28): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(42,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(62,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(61,11): warning C4101: 'heroe': variable local sin referencia
+  (compilando archivo de origen "FormNivel1.cpp")
+  
+  FormNivel2.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(54,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(55,28): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Controladora2.h(243,35): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(60,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(81,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormNivel2.cpp")
+  
+  FormNiveles.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(54,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(55,28): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(42,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(62,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(61,11): warning C4101: 'heroe': variable local sin referencia
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Controladora2.h(243,35): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(60,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(81,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormNiveles.cpp")
+  
+  FormUPC.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(31,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(40,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(54,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Movimiento.h(55,28): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(17,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,44): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Banco.h(22,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(42,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(62,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel1.h(61,11): warning C4101: 'heroe': variable local sin referencia
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\Controladora2.h(243,35): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(60,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "FormUPC.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\Save_Money_World\FormNivel2.h(81,11): warning C4101: 'banco': variable local sin referencia
+  (compilando archivo de origen "FormUPC.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  FormCreditos.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Save_Money_World.vcxproj -> C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Trabajo Final\Save_Money_World\x64\Debug\Save_Money_World.exe
